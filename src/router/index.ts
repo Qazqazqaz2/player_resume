@@ -1,7 +1,8 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
 export const router = createRouter({
-  history: createWebHistory(),
+  // BASE_URL подставляется Vite из vite.config.ts (base: '/player_resume/')
+  history: createWebHistory(import.meta.env.BASE_URL),
   scrollBehavior(to) {
     if (to.hash) return { el: to.hash, behavior: 'smooth' }
     return { top: 0 }

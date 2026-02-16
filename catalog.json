@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "skyline-ramen",
+    "title": "Лапша под небоскрёбами",
+    "status": "Завершено",
+    "year": 2025,
+    "rating": 7.9,
+    "genres": ["Комедия", "Повседневность", "Романтика"],
+    "imageUrl": "https://images.unsplash.com/photo-1526318896980-cf78c088247c?auto=format&fit=crop&w=900&q=70"
+  },
+  {
+    "slug": "digital-dreams",
+    "title": "Цифровые сны",
+    "status": "Онгоинг",
+    "year": 2024,
+    "rating": 9.1,
+    "genres": ["Фантастика", "Драма", "Киберпанк"],
+    "imageUrl": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&w=900&q=70"
+  },
+  {
+    "slug": "coffee-and-orbits",
+    "title": "Кофе и орбиты",
+    "status": "Завершено",
+    "year": 2022,
+    "rating": 7.6,
+    "genres": ["Комедия", "Фантастика", "Слайс оф лайф"],
+    "imageUrl": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=900&q=70"
+  },
+  {
+    "slug": "silent-rooftops",
+    "title": "Безмолвные крыши",
+    "status": "Завершено",
+    "year": 2021,
+    "rating": 8.4,
+    "genres": ["Драма", "Психологическое", "Сейнен"],
+    "imageUrl": "https://images.unsplash.com/photo-1518837558578-f0c763d7b5c1?auto=format&fit=crop&w=900&q=70"
+  }
+]
